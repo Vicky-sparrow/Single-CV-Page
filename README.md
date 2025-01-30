@@ -25,3 +25,4 @@ CSS3: For styling the layout and design.
 
 ## Project URL
 https://github.com/Vicky-sparrow/Single-CV-Page
+https://roadmap.sh/projects/single-page-cv
