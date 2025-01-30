@@ -2,7 +2,7 @@
 This project is a responsive resume template created using HTML and CSS. The template is designed to be clean, modern, and professional, featuring a bordered layout with well-defined sections for skills, education, experience, and contact information.
 
 ## 📂 Project Structure  
-resume-project/
+single CV page/
 ├── README.md     # Your README documentation
 ├── index.html    # Your main HTML file
 └── styles.css    # Your CSS file
