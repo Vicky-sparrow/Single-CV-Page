@@ -23,5 +23,5 @@ Modify the CSS file if you want to change the styling (e.g., colors, fonts, etc.
 HTML5: For the structure of the resume.
 CSS3: For styling the layout and design.
 
-#Project URL
+## Project URL
 https://github.com/Vicky-sparrow/Single-CV-Page
