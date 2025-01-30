@@ -7,20 +7,18 @@ resume-project/
 ├── index.html    # Your main HTML file
 └── styles.css    # Your CSS file
 
-How to Use
-Clone the repository:
-
-bash
-Copy code
+## How to Use
+### Clone the repository:
 git clone https://github.com/your-username/resume-template.git
+
 Open the project:
 Navigate to the project folder and open the index.html file in your browser.
 
-Customize:
+#### Customize:
 
 Update the HTML content with your own details (e.g., name, skills, education, etc.).
 Modify the CSS file if you want to change the styling (e.g., colors, fonts, etc.).
 
-Built With
+#### Built With
 HTML5: For the structure of the resume.
 CSS3: For styling the layout and design.
